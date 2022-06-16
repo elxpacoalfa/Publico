@@ -1,5 +1,5 @@
-**Pau Pereda Tornero**
-:desktop_computer: DESARROLLO Y PROGRAMACION WEB :desktop_computer:
+## **Pau Pereda Tornero**
+# :desktop_computer: DESARROLLO Y PROGRAMACION WEB :desktop_computer:
 <hr>
 
 
