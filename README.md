@@ -1,6 +1,6 @@
 # :desktop_computer: Técnico en Desarrollo y Programación Web :desktop_computer:
 <hr>
-###  :technologist: **Pau Pereda Tornero** :technologist:
+######  :technologist: **Pau Pereda Tornero** :technologist:
 <hr>
 
 
